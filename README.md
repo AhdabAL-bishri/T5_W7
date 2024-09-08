@@ -1,0 +1,1 @@
+After several experiments in Task2 trying to improve the model, I noticed that the data division is incorrect, as if it was divided 50% for each. This may be the reason, but there is no time to try this analysis.
